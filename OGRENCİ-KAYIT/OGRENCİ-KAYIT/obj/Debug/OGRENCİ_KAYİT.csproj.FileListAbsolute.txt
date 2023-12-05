@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\bin\Debug\OGRENCİ-KAYIT.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\bin\Debug\OGRENCİ-KAYIT.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\bin\Debug\OGRENCİ-KAYIT.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ_KAYİT.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ_KAYİT.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ_KAYIT.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ_KAYIT.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ_KAYİT.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ_KAYİT.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ-KAYIT.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\OGRENCİ-KAYIT\OGRENCİ-KAYIT\obj\Debug\OGRENCİ-KAYIT.pdb
